@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cdn-cgi/l/email-protection
+Allow: /
+
+Sitemap: https://agricultureequipment.alwejhagroup.com/sitemap.xml
